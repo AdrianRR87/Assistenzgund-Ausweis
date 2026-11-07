@@ -1,3 +1,24 @@
+Field Extracted information
+Document Assistenzhund-Ausweis
+English designation Assistance Dog ID Card
+Handler (Halter/in) Tobias Strauß
+Assistance dog Archie
+Area of assistance Neurologische Einschränkungen
+English translation Neurological impairments
+Dog's date of birth 14.03.2022
+Microchip number 276098104567890
+ID card number AH-DA-2024-0173
+Date of issue 01.01.2024
+Valid until 31.12.2026
+
+
+Field Information
+Organization Deutsches Rotes Kreuz (DRK)
+Regional association Kreisverband Darmstadt e.V.
+Country Germany
+Legal reference printed on card Assistenzhundeverordnung (AHundV)
+
+
 Files
 index.html: page content
 style.css: responsive design
